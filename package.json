@@ -1,0 +1,20 @@
+{
+  "name": "glass",
+  "version": "1.0.0",
+  "description": "A transparent cache. The cache is a function and you're never aware it's cached",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Christian Bongiorno",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chb0github/glass.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chb0github/glass/issues"
+  },
+  "homepage": "https://github.com/chb0github/glass#readme"
+}
